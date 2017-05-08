@@ -25,6 +25,7 @@
     "clear-cut": "^2.0.1",
     "coffee-script": "1.8.0",
     "color": "^0.7.3",
+    
     "console-panel": "git+https://github.com/TheraPackages/console-panel.git#v0.2.9",
     "create-files": "git+https://github.com/TheraPackages/create-files.git#v0.0.2",
     "dedent": "^0.6.0",
